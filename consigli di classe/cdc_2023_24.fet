@@ -494,6 +494,20 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
+	<Name>BAROLOMEI Monica</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>BARRACCA Antonio</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
 	<Name>BARTOLOZZI</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -767,6 +781,13 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
+	<Name>CAPPONI SAMUELA</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
 	<Name>CARBONE</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -1019,6 +1040,13 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
+	<Name>CIUFFINI ENRICA</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
 	<Name>CLEMENTI Annalisa</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -1069,6 +1097,13 @@
 </Teacher>
 <Teacher>
 	<Name>CORRADINI Federica</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>COSTANTINI ELISA</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -3031,6 +3066,7 @@
 	<Teacher>PROCACCI Cesarina</Teacher>
 	<Teacher>SCHIATTELLI Filippo</Teacher>
 	<Teacher>SEBASTIANI Fabiola</Teacher>
+	<Teacher>BIANCHI</Teacher>
 	<Subject>(2 E2)</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3090,6 +3126,7 @@
 	<Teacher>ROSSI Roberto</Teacher>
 	<Teacher>SMACCHI Anna Rita</Teacher>
 	<Teacher>SPIGARELLI Stefano</Teacher>
+	<Teacher>BAFFONI Silvia</Teacher>
 	<Subject>(4 SIA)</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3173,6 +3210,7 @@
 	<Teacher>RINALDINI Sara</Teacher>
 	<Teacher>ROSATI Anna Rita</Teacher>
 	<Teacher>TASSO Luca</Teacher>
+	<Teacher>CAVALLARI SIMONETTA</Teacher>
 	<Subject>[1 PE]</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3220,6 +3258,9 @@
 	<Teacher>RINALDINI Sara</Teacher>
 	<Teacher>SPACCASASSI Marta</Teacher>
 	<Teacher>TASSO Luca</Teacher>
+	<Teacher>BAFFONI Silvia</Teacher>
+	<Teacher>BORGNINI Valentina</Teacher>
+	<Teacher>CAPANNELLI CRISTINA</Teacher>
 	<Subject>[2 PE]</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3244,6 +3285,8 @@
 	<Teacher>PERIOLI Cristina</Teacher>
 	<Teacher>ROSATI Anna Rita</Teacher>
 	<Teacher>ALLEGRUCCI Giovanna</Teacher>
+	<Teacher>BAROLOMEI Monica</Teacher>
+	<Teacher>BENDELLI MARTA</Teacher>
 	<Subject>[2 PM]</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3266,6 +3309,7 @@
 	<Teacher>PECCI Luca</Teacher>
 	<Teacher>RIGHETTI Mattia</Teacher>
 	<Teacher>SATIRI Samantha</Teacher>
+	<Teacher>BENDELLI MARTA</Teacher>
 	<Subject>[3 PE] </Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3286,6 +3330,7 @@
 	<Teacher>PACI Daniela Maria</Teacher>
 	<Teacher>RIGHETTI Mattia</Teacher>
 	<Teacher>SATIRI Samantha</Teacher>
+	<Teacher>CASTELLANI PAOLA</Teacher>
 	<Subject>[3 PM]</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3307,6 +3352,8 @@
 	<Teacher>NOTARI Francesca</Teacher>
 	<Teacher>PERIOLI Cristina</Teacher>
 	<Teacher>PIERUCCI Marta</Teacher>
+	<Teacher>BARRACCA Antonio</Teacher>
+	<Teacher>CAPANNELLI CRISTINA</Teacher>
 	<Subject>[4 PE]</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3329,6 +3376,7 @@
 	<Teacher>MARIANI Katia</Teacher>
 	<Teacher>PERIOLI Cristina</Teacher>
 	<Teacher>VILLA Antonella</Teacher>
+	<Teacher>CAVALLARI SIMONETTA</Teacher>
 	<Subject>[4 PM]</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3350,6 +3398,7 @@
 	<Teacher>PIERINI Fabio</Teacher>
 	<Teacher>RIGHETTI Mattia</Teacher>
 	<Teacher>ROSATI Anna Rita</Teacher>
+	<Teacher>BORCHIELLINI Barbara</Teacher>
 	<Subject>[5 PE]</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3373,6 +3422,7 @@
 	<Teacher>RIGHETTI Mattia</Teacher>
 	<Teacher>VILLA Antonella</Teacher>
 	<Teacher>ALFIERI ANNA</Teacher>
+	<Teacher>BORCHIELLINI Barbara</Teacher>
 	<Subject>[5 PM]</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3396,6 +3446,7 @@
 	<Teacher>NERI Cristiana</Teacher>
 	<Teacher>PARBUONI Andrea</Teacher>
 	<Teacher>RUSSO Francois</Teacher>
+	<Teacher>CIUFFINI ENRICA</Teacher>
 	<Subject>1 T1</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3445,6 +3496,7 @@
 	<Teacher>STOCCHI Sara</Teacher>
 	<Teacher>TOGNOLONI Silvia</Teacher>
 	<Teacher>TRAVAGLIA Paola</Teacher>
+	<Teacher>CAPPONI SAMUELA</Teacher>
 	<Subject>1 T3</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3469,6 +3521,7 @@
 	<Teacher>STOCCHI Sara</Teacher>
 	<Teacher>TOGNOLONI Silvia</Teacher>
 	<Teacher>TRAVAGLIA Paola</Teacher>
+	<Teacher>COSTANTINI ELISA</Teacher>
 	<Subject>1 T4</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3494,6 +3547,8 @@
 	<Teacher>TRAVAGLIA Paola</Teacher>
 	<Teacher>ZANGARELLI Paola</Teacher>
 	<Teacher>ZEPPA Tiziana</Teacher>
+	<Teacher>CAPPONI SAMUELA</Teacher>
+	<Teacher>COSTANTINI ELISA</Teacher>
 	<Subject>1 T5</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3569,6 +3624,8 @@
 	<Teacher>SPACCASASSI Marta</Teacher>
 	<Teacher>TRAVERSINI Antonella</Teacher>
 	<Teacher>ALLEGRUCCI Donatella</Teacher>
+	<Teacher>BARBI BEATRICE</Teacher>
+	<Teacher>CIUFFINI ENRICA</Teacher>
 	<Subject>2 T1</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3647,6 +3704,7 @@
 	<Teacher>TOMARELLI Paola</Teacher>
 	<Teacher>TRAVAGLIA Paola</Teacher>
 	<Teacher>VALERI Giulia</Teacher>
+	<Teacher>CASTELLANI PAOLA</Teacher>
 	<Subject>2 T4</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3720,6 +3778,7 @@
 	<Teacher>SPACCASASSI Marta</Teacher>
 	<Teacher>TRAVERSINI Antonella</Teacher>
 	<Teacher>ALLEGRUCCI Donatella</Teacher>
+	<Teacher>CIUFFINI ENRICA</Teacher>
 	<Subject>3 A</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3828,6 +3887,7 @@
 	<Teacher>PANENI Tania</Teacher>
 	<Teacher>PERUGINI Cecilia</Teacher>
 	<Teacher>ALLASSIA Stefano</Teacher>
+	<Teacher>COSTANTINI ELISA</Teacher>
 	<Subject>3 E</Subject>
 	<Activity_Tag>aula</Activity_Tag>
 	<Duration>1</Duration>
@@ -3850,6 +3910,7 @@
 	<Teacher>PALLUCCA Paola</Teacher>
 	<Teacher>PICCIOLINI Matteo</Teacher>
 	<Teacher>STOCCHI David</Teacher>
+	<Teacher>BONATTI Marco</Teacher>
 	<Subject>3 I1</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3871,6 +3932,7 @@
 	<Teacher>RUGHI Maria Teresa</Teacher>
 	<Teacher>SATIRI Samantha</Teacher>
 	<Teacher>STOCCHI David</Teacher>
+	<Teacher>BONATTI Marco</Teacher>
 	<Subject>3 I2</Subject>
 	<Activity_Tag>aula</Activity_Tag>
 	<Duration>1</Duration>
@@ -4083,6 +4145,8 @@
 	<Teacher>RUGHI Maria Teresa</Teacher>
 	<Teacher>ZANGARELLI Paola</Teacher>
 	<Teacher>ZOPPIS Lucia</Teacher>
+	<Teacher>BARBI BEATRICE</Teacher>
+	<Teacher>CASAGRANDE CHIARA</Teacher>
 	<Subject>5 B1</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -4125,6 +4189,7 @@
 	<Teacher>PIERDICA Marina</Teacher>
 	<Teacher>SMACCHI Francesca</Teacher>
 	<Teacher>TOMARELLI Paola</Teacher>
+	<Teacher>CASAGRANDE CHIARA</Teacher>
 	<Subject>5 B3</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
