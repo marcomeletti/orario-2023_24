@@ -28,24 +28,21 @@
 </Days_List>
 
 <Hours_List>
-<Number_of_Hours>6</Number_of_Hours>
+<Number_of_Hours>5</Number_of_Hours>
 <Hour>
-	<Name>08:00</Name>
+	<Name>14:30</Name>
 </Hour>
 <Hour>
-	<Name>09:00</Name>
+	<Name>15:30</Name>
 </Hour>
 <Hour>
-	<Name>10:00</Name>
+	<Name>16:30</Name>
 </Hour>
 <Hour>
-	<Name>11:00</Name>
+	<Name>17:30</Name>
 </Hour>
 <Hour>
-	<Name>12:00</Name>
-</Hour>
-<Hour>
-	<Name>13:00</Name>
+	<Name>18:30</Name>
 </Hour>
 </Hours_List>
 
@@ -1544,6 +1541,13 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
+	<Name>LEPRI ALBERTO</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
 	<Name>LUCACCIONI</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -1740,6 +1744,13 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
+	<Name>MARINARO ROBERTO</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
 	<Name>MARINELLI</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -1902,6 +1913,13 @@
 </Teacher>
 <Teacher>
 	<Name>MENCHETTI</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MENGUCCI ANGELA</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -2139,6 +2157,13 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
+	<Name>PANETTA ANTONELLA</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
 	<Name>PANFILI</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -2286,6 +2311,13 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
+	<Name>PICCHI VALENTINA</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
 	<Name>PICCIOLINI Matteo</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -2405,6 +2437,13 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
+	<Name>RICCI CLAUDIA</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
 	<Name>RIGHETTI</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -2427,6 +2466,13 @@
 </Teacher>
 <Teacher>
 	<Name>RINALDINI Sara</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>RINALDONI ALESSIA</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -2490,6 +2536,13 @@
 </Teacher>
 <Teacher>
 	<Name>ROSSI Roberto</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ROSSI VERONICA</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -2944,6 +2997,13 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
+	<Name>ZAMOSHANSKAY ANASTASIA</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
 	<Name>ZANGARELLI</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -2972,14 +3032,14 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>ZOPPIS</Name>
+	<Name>ZOPPIS Lucia</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>ZOPPIS Lucia</Name>
+	<Name>ZOPPIS MIRIANA</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -3067,6 +3127,7 @@
 	<Teacher>SCHIATTELLI Filippo</Teacher>
 	<Teacher>SEBASTIANI Fabiola</Teacher>
 	<Teacher>BIANCHI</Teacher>
+	<Teacher>FIORITI</Teacher>
 	<Subject>(2 E2)</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3211,6 +3272,7 @@
 	<Teacher>ROSATI Anna Rita</Teacher>
 	<Teacher>TASSO Luca</Teacher>
 	<Teacher>CAVALLARI SIMONETTA</Teacher>
+	<Teacher>MARINARO ROBERTO</Teacher>
 	<Subject>[1 PE]</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3261,6 +3323,7 @@
 	<Teacher>BAFFONI Silvia</Teacher>
 	<Teacher>BORGNINI Valentina</Teacher>
 	<Teacher>CAPANNELLI CRISTINA</Teacher>
+	<Teacher>PICCHI VALENTINA</Teacher>
 	<Subject>[2 PE]</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3310,6 +3373,7 @@
 	<Teacher>RIGHETTI Mattia</Teacher>
 	<Teacher>SATIRI Samantha</Teacher>
 	<Teacher>BENDELLI MARTA</Teacher>
+	<Teacher>RAGNACCI EZIO</Teacher>
 	<Subject>[3 PE] </Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3331,6 +3395,9 @@
 	<Teacher>RIGHETTI Mattia</Teacher>
 	<Teacher>SATIRI Samantha</Teacher>
 	<Teacher>CASTELLANI PAOLA</Teacher>
+	<Teacher>FIORITI</Teacher>
+	<Teacher>PICCHI VALENTINA</Teacher>
+	<Teacher>RINALDONI ALESSIA</Teacher>
 	<Subject>[3 PM]</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3377,6 +3444,7 @@
 	<Teacher>PERIOLI Cristina</Teacher>
 	<Teacher>VILLA Antonella</Teacher>
 	<Teacher>CAVALLARI SIMONETTA</Teacher>
+	<Teacher>ROSATI PAOLO</Teacher>
 	<Subject>[4 PM]</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3399,6 +3467,7 @@
 	<Teacher>RIGHETTI Mattia</Teacher>
 	<Teacher>ROSATI Anna Rita</Teacher>
 	<Teacher>BORCHIELLINI Barbara</Teacher>
+	<Teacher>RAGNACCI EZIO</Teacher>
 	<Subject>[5 PE]</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3447,6 +3516,8 @@
 	<Teacher>PARBUONI Andrea</Teacher>
 	<Teacher>RUSSO Francois</Teacher>
 	<Teacher>CIUFFINI ENRICA</Teacher>
+	<Teacher>MINELLI IVAN FEDERICO</Teacher>
+	<Teacher>ZAMOSHANSKAY ANASTASIA</Teacher>
 	<Subject>1 T1</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3471,6 +3542,8 @@
 	<Teacher>SPACCASASSI Marta</Teacher>
 	<Teacher>STOCCHI Sara</Teacher>
 	<Teacher>TRAVAGLIA Paola</Teacher>
+	<Teacher>PERUGINI</Teacher>
+	<Teacher>ROSSI VERONICA</Teacher>
 	<Subject>1 T2</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3497,6 +3570,7 @@
 	<Teacher>TOGNOLONI Silvia</Teacher>
 	<Teacher>TRAVAGLIA Paola</Teacher>
 	<Teacher>CAPPONI SAMUELA</Teacher>
+	<Teacher>PANETTA ANTONELLA</Teacher>
 	<Subject>1 T3</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3522,6 +3596,8 @@
 	<Teacher>TOGNOLONI Silvia</Teacher>
 	<Teacher>TRAVAGLIA Paola</Teacher>
 	<Teacher>COSTANTINI ELISA</Teacher>
+	<Teacher>MENGUCCI ANGELA</Teacher>
+	<Teacher>ZAMOSHANSKAY ANASTASIA</Teacher>
 	<Subject>1 T4</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3549,6 +3625,7 @@
 	<Teacher>ZEPPA Tiziana</Teacher>
 	<Teacher>CAPPONI SAMUELA</Teacher>
 	<Teacher>COSTANTINI ELISA</Teacher>
+	<Teacher>ZAMOSHANSKAY ANASTASIA</Teacher>
 	<Subject>1 T5</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3574,6 +3651,8 @@
 	<Teacher>SEBASTIANI Fabiola</Teacher>
 	<Teacher>STOCCHI Sara</Teacher>
 	<Teacher>TRAVAGLIA Paola</Teacher>
+	<Teacher>FALCINI</Teacher>
+	<Teacher>PANETTA ANTONELLA</Teacher>
 	<Subject>1 T6</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3598,6 +3677,8 @@
 	<Teacher>PICCIOLINI Matteo</Teacher>
 	<Teacher>STOCCHI Sara</Teacher>
 	<Teacher>TRAVAGLIA Paola</Teacher>
+	<Teacher>FALCINI</Teacher>
+	<Teacher>RICCI CLAUDIA</Teacher>
 	<Subject>1 T7</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3626,6 +3707,8 @@
 	<Teacher>ALLEGRUCCI Donatella</Teacher>
 	<Teacher>BARBI BEATRICE</Teacher>
 	<Teacher>CIUFFINI ENRICA</Teacher>
+	<Teacher>MENGUCCI ANGELA</Teacher>
+	<Teacher>SEBASTIANI </Teacher>
 	<Subject>2 T1</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3681,6 +3764,8 @@
 	<Teacher>TOGNOLONI Silvia</Teacher>
 	<Teacher>TRAVAGLIA Paola</Teacher>
 	<Teacher>ALLASSIA Stefano</Teacher>
+	<Teacher>RONCIGLI</Teacher>
+	<Teacher>SMACCHIA</Teacher>
 	<Subject>2 T3</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3779,6 +3864,7 @@
 	<Teacher>TRAVERSINI Antonella</Teacher>
 	<Teacher>ALLEGRUCCI Donatella</Teacher>
 	<Teacher>CIUFFINI ENRICA</Teacher>
+	<Teacher>MARTINELLI TAMARA</Teacher>
 	<Subject>3 A</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3822,6 +3908,8 @@
 	<Teacher>PIERDICA Marina</Teacher>
 	<Teacher>STOCCHI Sara</Teacher>
 	<Teacher>VINCENTI Valeria</Teacher>
+	<Teacher>LEPRI ALBERTO</Teacher>
+	<Teacher>RIPA ORSOLA</Teacher>
 	<Subject>3 B2</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3888,6 +3976,7 @@
 	<Teacher>PERUGINI Cecilia</Teacher>
 	<Teacher>ALLASSIA Stefano</Teacher>
 	<Teacher>COSTANTINI ELISA</Teacher>
+	<Teacher>SMACCHIA</Teacher>
 	<Subject>3 E</Subject>
 	<Activity_Tag>aula</Activity_Tag>
 	<Duration>1</Duration>
@@ -3911,6 +4000,7 @@
 	<Teacher>PICCIOLINI Matteo</Teacher>
 	<Teacher>STOCCHI David</Teacher>
 	<Teacher>BONATTI Marco</Teacher>
+	<Teacher>RICCI CLAUDIA</Teacher>
 	<Subject>3 I1</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3933,6 +4023,9 @@
 	<Teacher>SATIRI Samantha</Teacher>
 	<Teacher>STOCCHI David</Teacher>
 	<Teacher>BONATTI Marco</Teacher>
+	<Teacher>MARTINELLI MARIA GRAZIA</Teacher>
+	<Teacher>PERUGINI</Teacher>
+	<Teacher>TALAMELLI GLORIA</Teacher>
 	<Subject>3 I2</Subject>
 	<Activity_Tag>aula</Activity_Tag>
 	<Duration>1</Duration>
@@ -3956,6 +4049,8 @@
 	<Teacher>SECCHI Giovanni Paolo</Teacher>
 	<Teacher>SILVESTRINI Giada</Teacher>
 	<Teacher>TOMARELLI Paola</Teacher>
+	<Teacher>MARTINELLI MARIA GRAZIA</Teacher>
+	<Teacher>RIPA ORSOLA</Teacher>
 	<Subject>3 M</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -3976,6 +4071,7 @@
 	<Teacher>SALDI Sara</Teacher>
 	<Teacher>SILVESTRINI Giada</Teacher>
 	<Teacher>TRAVERSINI Antonella</Teacher>
+	<Teacher>RICCI CLAUDIA</Teacher>
 	<Subject>4 A</Subject>
 	<Activity_Tag>aula</Activity_Tag>
 	<Duration>1</Duration>
@@ -4040,6 +4136,8 @@
 	<Teacher>MORELLI Marco</Teacher>
 	<Teacher>PASQUARELLI Fabio</Teacher>
 	<Teacher>SATIRI Samantha</Teacher>
+	<Teacher>TALAMELLI GLORIA</Teacher>
+	<Teacher>ZOPPIS MIRIANA</Teacher>
 	<Subject>4 C</Subject>
 	<Activity_Tag>aula</Activity_Tag>
 	<Duration>1</Duration>
@@ -4060,6 +4158,8 @@
 	<Teacher>ORFEI Francesco</Teacher>
 	<Teacher>PANENI Tania</Teacher>
 	<Teacher>SILVESTRINI Giada</Teacher>
+	<Teacher>RICCI CLAUDIA</Teacher>
+	<Teacher>VITALI ANGELA</Teacher>
 	<Subject>4 E</Subject>
 	<Activity_Tag>aula</Activity_Tag>
 	<Duration>1</Duration>
@@ -4081,6 +4181,8 @@
 	<Teacher>PANFILI Edoardo</Teacher>
 	<Teacher>PICCIOLINI Matteo</Teacher>
 	<Teacher>STOCCHI David</Teacher>
+	<Teacher>GHIANDONI PAOLA</Teacher>
+	<Teacher>RONCIGLI</Teacher>
 	<Subject>4 I</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -4102,6 +4204,9 @@
 	<Teacher>MARINI Viviana</Teacher>
 	<Teacher>PIERINI Fabio</Teacher>
 	<Teacher>SATIRI Samantha</Teacher>
+	<Teacher>PIERUCCI MARTA</Teacher>
+	<Teacher>TALAMELLI GLORIA</Teacher>
+	<Teacher>ZOPPIS MIRIANA</Teacher>
 	<Subject>4 M</Subject>
 	<Activity_Tag>aula</Activity_Tag>
 	<Duration>1</Duration>
@@ -4123,6 +4228,8 @@
 	<Teacher>NARDELLI Annalisa</Teacher>
 	<Teacher>SALDI Sara</Teacher>
 	<Teacher>TRAVERSINI Antonella</Teacher>
+	<Teacher>MARTINELLI TAMARA</Teacher>
+	<Teacher>MAZZOCCHI CECILIA</Teacher>
 	<Subject>5 A</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -4169,6 +4276,8 @@
 	<Teacher>SMACCHI Anna Rita</Teacher>
 	<Teacher>SMACCHI Francesca</Teacher>
 	<Teacher>ZOPPIS Lucia</Teacher>
+	<Teacher>LEPRI ALBERTO</Teacher>
+	<Teacher>ROSSI VERONICA</Teacher>
 	<Subject>5 B2</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -4190,6 +4299,7 @@
 	<Teacher>SMACCHI Francesca</Teacher>
 	<Teacher>TOMARELLI Paola</Teacher>
 	<Teacher>CASAGRANDE CHIARA</Teacher>
+	<Teacher>LEPRI ALBERTO</Teacher>
 	<Subject>5 B3</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -4272,6 +4382,8 @@
 	<Teacher>SATIRI Samantha</Teacher>
 	<Teacher>STOCCHI David</Teacher>
 	<Teacher>VALERI Giulia</Teacher>
+	<Teacher>GHIANDONI PAOLA</Teacher>
+	<Teacher>MAZZOCCHI CECILIA</Teacher>
 	<Subject>5 I2</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -4293,6 +4405,9 @@
 	<Teacher>PECCI Luca</Teacher>
 	<Teacher>PIERINI Fabio</Teacher>
 	<Teacher>SECCHI Giovanni Paolo</Teacher>
+	<Teacher>PIERUCCI Marta</Teacher>
+	<Teacher>VITALI ANGELA</Teacher>
+	<Teacher>ZOPPIS MIRIANA</Teacher>
 	<Subject>5 M1</Subject>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
@@ -5013,6 +5128,87 @@
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivitiesSameRoomIfConsecutive>
+<ConstraintRoomNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Room>iiscg-stanza1</Room>
+	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Lunedì</Day>
+		<Hour>14:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Lunedì</Day>
+		<Hour>15:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Lunedì</Day>
+		<Hour>16:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Lunedì</Day>
+		<Hour>17:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Lunedì</Day>
+		<Hour>18:30</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintRoomNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Room>iiscg-stanza2</Room>
+	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Lunedì</Day>
+		<Hour>14:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Lunedì</Day>
+		<Hour>15:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Lunedì</Day>
+		<Hour>16:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Lunedì</Day>
+		<Hour>17:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Lunedì</Day>
+		<Hour>18:30</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintRoomNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Room>iiscg-stanza3</Room>
+	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Lunedì</Day>
+		<Hour>14:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Lunedì</Day>
+		<Hour>15:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Lunedì</Day>
+		<Hour>16:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Lunedì</Day>
+		<Hour>17:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Lunedì</Day>
+		<Hour>18:30</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
 </Space_Constraints_List>
 
 </fet>
